@@ -11,6 +11,7 @@
 - [ID.me](https://www.id.me/) 
 - [IDentité Numérique (IDN)](https://www.idn.laposte.fr/) 
 - [Keeper](https://keepersecurity.com/) 
+- [Auth0](https://auth0.com/)
 - [Keybase](https://keybase.io/) 
 - [LastPass](https://lastpass.com/) 
 - [Okta](https://www.okta.com/) 
