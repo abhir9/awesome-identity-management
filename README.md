@@ -26,9 +26,18 @@
 - [True Key](https://www.truekey.com/)
 - [Keycloak](https://www.keycloak.org/)
 - [Gluu](https://www.gluu.org/)
-
-
-
+- [VMWare Workspace one](https://www.vmware.com/in/products/workspace-one.html)
+- [EmpowerID](https://www.empowerid.com/)
+- [Optimal](https://optimalidm.com/)
+- [Bitium](https://www.bitium.com/)
+- [Ping Identity](https://www.pingidentity.com/en.html)
+- [pingidentity](https://www.pingidentity.com/)
+- [Azure Active Directory](https://azure.microsoft.com/en-gb/services/active-directory/)
+- [10duke](https://www.10duke.com)
+- [shibboleth](https://www.shibboleth.net/)
+- [miniorange](https://www.miniorange.com/)
+- [wso2](https://wso2.com/)
+- [cloudcodes]()
 
 
 
