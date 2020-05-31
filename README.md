@@ -44,5 +44,5 @@
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the
-[contribution guidelines](https://github.com/abhir9/-awesome-identity/blob/master/CONTRIBUTING.md) first.
+[contribution guidelines](https://github.com/abhir9/awesome-identity-management/blob/master/CONTRIBUTING.md) first.
 
