@@ -9,6 +9,7 @@
 - [Centrify](https://www.centrify.com/) 
 - [Dashlane](https://www.dashlane.com/) 
 - [ID.me](https://www.id.me/) 
+- [0Auth.io](https://oauth.io/)
 - [IDentité Numérique (IDN)](https://www.idn.laposte.fr/) 
 - [Keeper](https://keepersecurity.com/) 
 - [Auth0](https://auth0.com/)
@@ -52,6 +53,12 @@
 - [SecureAuth](https://www.secureauth.com/)
 - [Simeio](https://www.simeiosolutions.com/)
 - [Ubisecure](https://www.ubisecure.com/)
+- [Kno](https://trykno.com)
+- [DID.app](https://did.app)
+- [AuthRocket](https://authrocket.com/)
+- [AWS Cognito](https://aws.amazon.com/cognito/)
+- [Firebase Auth](https://firebase.google.com/products/auth/)
+
 
 ## Contributing
 
