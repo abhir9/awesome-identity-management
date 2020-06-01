@@ -39,8 +39,19 @@
 - [wso2](https://wso2.com/)
 - [evolveum](https://evolveum.com/)
 - [microfocus](https://www.microfocus.com/en-us/solutions/identity-access-management)
-
-
+- [Crossmatch](https://www.crossmatch.com/)
+- [Fischer](https://www.fischerinternational.com/)
+- [ForgeRock](https://www.forgerock.com/)
+- [FusionAuth](https://fusionauth.io/)
+- [Idaptive](https://www.idaptive.com/)
+- [Identity Automation](https://www.identityautomation.com/)
+- [NetIQ](https://www.microfocus.com/en-us/products/netiq/overview)
+- [Omada](https://www.omada.net/)
+- [Salesforce](https://www.salesforce.com/)
+- [Saviynt](https://saviynt.com/)
+- [SecureAuth](https://www.secureauth.com/)
+- [Simeio](https://www.simeiosolutions.com/)
+- [Ubisecure](https://www.ubisecure.com/)
 
 ## Contributing
 
