@@ -58,6 +58,8 @@
 - [AuthRocket](https://authrocket.com/)
 - [AWS Cognito](https://aws.amazon.com/cognito/)
 - [Firebase Auth](https://firebase.google.com/products/auth/)
+- [Silverfort](https://www.silverfort.com/)
+- [Avatier](https://www.avatier.com/)
 
 
 ## Contributing
