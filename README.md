@@ -1,4 +1,4 @@
-# Awesome Identity Management [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [ ![Medium](https://miro.medium.com/max/244/1*emiGsBgJu2KHWyjluhKXQw.png)](https://medium.com/@abhir95/list-of-all-identity-and-access-management-software-in-world-b37ce1be1629)
+# Awesome Identity Management [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [ ![Medium](https://miro.medium.com/fit/c/96/96/1*6_fgYnisCa9V21mymySIvA.png)](https://medium.com/@abhir95/list-of-all-identity-and-access-management-software-in-world-b37ce1be1629)
 
 
 ## Identity Management Solutions
