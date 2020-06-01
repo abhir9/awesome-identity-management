@@ -37,7 +37,8 @@
 - [shibboleth](https://www.shibboleth.net/)
 - [miniorange](https://www.miniorange.com/)
 - [wso2](https://wso2.com/)
-- [cloudcodes]()
+- [evolveum](https://evolveum.com/)
+- [microfocus](https://www.microfocus.com/en-us/solutions/identity-access-management)
 
 
 
