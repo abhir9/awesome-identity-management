@@ -38,12 +38,12 @@
 - [shibboleth](https://www.shibboleth.net/)
 - [miniorange](https://www.miniorange.com/)
 - [wso2](https://wso2.com/)
+- [FusionAuth](https://fusionauth.io/)
 - [evolveum](https://evolveum.com/)
 - [microfocus](https://www.microfocus.com/en-us/solutions/identity-access-management)
 - [Crossmatch](https://www.crossmatch.com/)
 - [Fischer](https://www.fischerinternational.com/)
 - [ForgeRock](https://www.forgerock.com/)
-- [FusionAuth](https://fusionauth.io/)
 - [Idaptive](https://www.idaptive.com/)
 - [Identity Automation](https://www.identityautomation.com/)
 - [NetIQ](https://www.microfocus.com/en-us/products/netiq/overview)
@@ -72,5 +72,5 @@
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the
-[contribution guidelines](https://github.com/abhir9/-awesome-identity/blob/master/CONTRIBUTING.md) first.
+[contribution guidelines](https://github.com/abhir9/awesome-identity-management/blob/master/CONTRIBUTING.md) first.
 
