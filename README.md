@@ -60,6 +60,13 @@
 - [Firebase Auth](https://firebase.google.com/products/auth/)
 - [Silverfort](https://www.silverfort.com/)
 - [Avatier](https://www.avatier.com/)
+- [Oracle IDM](https://docs.oracle.com/cd/E52734_01/oim/index.html)
+- [IBM IDM](https://www.ibm.com/in-en/security/identity-access-management)
+- [CA](https://www.broadcom.com/products/cyber-security/identity/identity-access-management)
+- [RSA](https://www.rsa.com/en-us/products/rsa-securid-suite)
+- [Radient Logic](https://www.radiantlogic.com)
+- [Tubora](https://www.tuebora.com/)
+- [Ilantis](https://www.ilantus.com/)
 
 
 ## Contributing
