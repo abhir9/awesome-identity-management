@@ -74,3 +74,5 @@
 Your contributions are always welcome! Please take a look at the
 [contribution guidelines](https://github.com/abhir9/awesome-identity-management/blob/master/CONTRIBUTING.md) first.
 
+## Licence
+[CCO](https://github.com/abhir9/awesome-identity-management/blob/master/LICENSE)
