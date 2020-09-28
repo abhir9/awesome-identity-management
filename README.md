@@ -32,7 +32,6 @@
 - [Optimal](https://optimalidm.com/)
 - [Bitium](https://www.bitium.com/)
 - [Ping Identity](https://www.pingidentity.com/en.html)
-- [pingidentity](https://www.pingidentity.com/)
 - [Azure Active Directory](https://azure.microsoft.com/en-gb/services/active-directory/)
 - [10duke](https://www.10duke.com)
 - [shibboleth](https://www.shibboleth.net/)
