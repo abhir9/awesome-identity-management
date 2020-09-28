@@ -68,6 +68,10 @@
 - [Tubora](https://www.tuebora.com/)
 - [Ilantis](https://www.ilantus.com/)
 - [Avancercorp](https://www.avancercorp.com)
+- [My1login](https://www.my1login.com/)
+- [HITACHI](https://hitachi-id.com/)
+- [I-Sprint](https://i-sprint.com/)
+- [One Identity](https://www.oneidentity.com/)
 
 ## Contributing
 
