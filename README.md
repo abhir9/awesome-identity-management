@@ -71,6 +71,11 @@
 - [HITACHI](https://hitachi-id.com/)
 - [I-Sprint](https://i-sprint.com/)
 - [One Identity](https://www.oneidentity.com/)
+- [secZetta](https://www.seczetta.com/)
+- [Tools4Ever](https://www.tools4ever.com/)
+- [Groove.id](https://groove.id/)
+- [Broadcom](https://www.broadcom.com/)
+- [Curity](https://www.curity.io/)
 
 ## Contributing
 
