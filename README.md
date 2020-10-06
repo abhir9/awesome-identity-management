@@ -76,7 +76,10 @@
 - [Groove.id](https://groove.id/)
 - [Broadcom](https://www.broadcom.com/)
 - [Curity](https://www.curity.io/)
-
+- [CyberArk](https://www.cyberark.com/)
+- [JumpCloud](https://jumpcloud.com/)
+- [SCC](https://www.securitycompliancecorp.com/)
+- [LogMeIn](https://www.logmein.com/)
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the
