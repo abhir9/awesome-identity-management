@@ -80,6 +80,9 @@
 - [JumpCloud](https://jumpcloud.com/)
 - [SCC](https://www.securitycompliancecorp.com/)
 - [LogMeIn](https://www.logmein.com/)
+- [BeyondTrust](https://www.beyondtrust.com/)
+- [HID Global](https://www.hidglobal.com/)
+
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the
