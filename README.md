@@ -63,7 +63,7 @@
 - [IBM IDM](https://www.ibm.com/in-en/security/identity-access-management)
 - [CA](https://www.broadcom.com/products/cyber-security/identity/identity-access-management)
 - [RSA](https://www.rsa.com/en-us/products/rsa-securid-suite)
-- [Radient Logic](https://www.radiantlogic.com)
+- [Radiant Logic](https://www.radiantlogic.com)
 - [Tubora](https://www.tuebora.com/)
 - [Ilantis](https://www.ilantus.com/)
 - [Avancercorp](https://www.avancercorp.com)
@@ -85,7 +85,8 @@
 - [WatchGuard](https://www.watchguard.com/wgrd-products/authpoint/authentication-service)
 - [GateKeeper Enterprise](https://gkaccess.com/)
 - [QuickLaunch SSO](https://quicklaunch.io/)
-
+- [BeyondTrust](https://www.beyondtrust.com/)
+- [HID Global](https://www.hidglobal.com/)
 
 ## Contributing
 
