@@ -80,6 +80,11 @@
 - [JumpCloud](https://jumpcloud.com/)
 - [SCC](https://www.securitycompliancecorp.com/)
 - [LogMeIn](https://www.logmein.com/)
+- [SAP Customer Data Cloud (Gigya)](https://www.sap.com/india/products/crm/customer-data-management.html)
+- [TeamsID](https://www.teamsid.com/)
+- [WatchGuard](https://www.watchguard.com/wgrd-products/authpoint/authentication-service)
+- [GateKeeper Enterprise](https://gkaccess.com/)
+- [QuickLaunch SSO](https://quicklaunch.io/)
 - [BeyondTrust](https://www.beyondtrust.com/)
 - [HID Global](https://www.hidglobal.com/)
 
