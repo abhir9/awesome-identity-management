@@ -87,6 +87,7 @@
 - [QuickLaunch SSO](https://quicklaunch.io/)
 - [BeyondTrust](https://www.beyondtrust.com/)
 - [HID Global](https://www.hidglobal.com/)
+- [cidaas](https://www.cidaas.com)
 
 ## Contributing
 
