@@ -88,6 +88,7 @@
 - [BeyondTrust](https://www.beyondtrust.com/)
 - [HID Global](https://www.hidglobal.com/)
 - [cidaas](https://www.cidaas.com)
+- [MonoSign](https://monosign.com/)
 
 ## Contributing
 
