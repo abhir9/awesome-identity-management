@@ -89,6 +89,7 @@
 - [HID Global](https://www.hidglobal.com/)
 - [cidaas](https://www.cidaas.com)
 - [MonoSign](https://monosign.com/)
+- [Open Identity Platform](https://github.com/OpenIdentityPlatform)
 
 ## Contributing
 
