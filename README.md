@@ -89,6 +89,8 @@
 - [HID Global](https://www.hidglobal.com/)
 - [cidaas](https://www.cidaas.com)
 - [MonoSign](https://monosign.com/)
+- [MojoAuth](https://mojoauth.com/)
+- [SecurId](https://www.securid.com/)
 
 ## Contributing
 
