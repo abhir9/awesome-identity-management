@@ -91,6 +91,7 @@
 - [MonoSign](https://monosign.com/)
 - [MojoAuth](https://mojoauth.com/)
 - [SecurId](https://www.securid.com/)
+- [Open Identity Platform](https://github.com/OpenIdentityPlatform)
 
 ## Contributing
 
