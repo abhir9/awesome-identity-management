@@ -93,6 +93,8 @@
 - [SecurId](https://www.securid.com/)
 - [Open Identity Platform](https://github.com/OpenIdentityPlatform)
 - [Clerk](https://clerk.com/)
+- [Authentik](https://goauthentik.io/)
+- 
 
 ## Contributing
 
