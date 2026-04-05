@@ -78,6 +78,7 @@
 - [Curity](https://www.curity.io/)
 - [CyberArk](https://www.cyberark.com/)
 - [JumpCloud](https://jumpcloud.com/)
+- [Hashgraph Online (HOL)](https://hol.org) — Universal identity and trust registry for AI agents on Hedera. Provides blockchain-based agent identity (HCS-14 Universal Agent IDs), trustless P2P communication, and cross-protocol bridging. 187K+ verified agents.
 - [SCC](https://www.securitycompliancecorp.com/)
 - [LogMeIn](https://www.logmein.com/)
 - [SAP Customer Data Cloud (Gigya)](https://www.sap.com/india/products/crm/customer-data-management.html)
