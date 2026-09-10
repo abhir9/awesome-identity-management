@@ -49,6 +49,7 @@
 - [Omada](https://www.omada.net/)
 - [Salesforce](https://www.salesforce.com/)
 - [Saviynt](https://saviynt.com/)
+- [Scalekit](https://www.scalekit.com/)
 - [SecureAuth](https://www.secureauth.com/)
 - [Simeio](https://www.simeiosolutions.com/)
 - [Ubisecure](https://www.ubisecure.com/)
